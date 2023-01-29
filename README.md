@@ -4,8 +4,7 @@
 I'm currently studying in BML Munjal University as 2nd Year Student pursuing Computer Science and Engineering.<br>
 Currently learning Application Development(Flutter) and Machine Learning.
 
-##![image](https://user-images.githubusercontent.com/102464313/215335871-5756a079-7997-4098-a00d-b90efc471727.png)
-Portfolio Website: https://ayush9h.github.io/
+## Portfolio Website: https://ayush9h.github.io/
 
 
 ## 🌐 Socials:

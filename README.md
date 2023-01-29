@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently studying in BML Munjal University as 2nd Year Student pursuing<br>Computer Science and Engineering.<br>
+I'm currently studying in BML Munjal University as 2nd Year Student pursuing Computer Science and Engineering.<br>
+Currently learning Application Development(Flutter) and Machine Learning.
 
 
 ## 🌐 Socials:
@@ -23,4 +24,3 @@ I'm currently studying in BML Munjal University as 2nd Year Student pursuing<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=ayush9h&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

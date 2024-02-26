@@ -1,7 +1,5 @@
 # 💫 About Me:
-3rd Year B.Tech Undergraduate pursuing Computer Science and Engineering with specialization in Deep Learning at BML Munjal University.
-
-Portfolio Website: https://ayush9h.github.io/<br>
+3rd-year B.Tech Undergraduate pursuing Computer Science and Engineering at BML Munjal University, Gurugram, India.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ayuar312002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-88b883239/)  
@@ -20,7 +18,4 @@ Portfolio Website: https://ayush9h.github.io/<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayush9h&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=ayush9h&icon=6&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

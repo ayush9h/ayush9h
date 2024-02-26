@@ -6,7 +6,7 @@ Portfolio Website: https://ayush9h.github.io/<br>
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ayuar312002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-88b883239/)  
 
-## ![image](https://github.com/ayush9h/ayush9h/assets/102464313/a1139594-2e6e-4a84-a3fd-9965a3f60bc7) Coding Profiles:
+## 📊 Coding Profiles:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ayukr_2002?theme=nord&font=Source%20Code%20Pro&ext=activity)
 
 # 💻 Tech Stack:

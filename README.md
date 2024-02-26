@@ -20,9 +20,6 @@ Portfolio Website: https://ayush9h.github.io/<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayush9h&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ayush9h&icon=6&color=4)](https://visitcount.itsvg.in)
 

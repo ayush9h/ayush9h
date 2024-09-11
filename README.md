@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd-year B.Tech Undergraduate pursuing Computer Science and Engineering at BML Munjal University, Gurugram, India.
+4th-year B.Tech Undergraduate pursuing Computer Science and Engineering at BML Munjal University, Gurugram, India.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ayuar312002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-88b883239/)  

@@ -26,8 +26,3 @@ I enjoy working hands-on with real code: scalable APIs, production-grade pipelin
 **Databases:** PostgreSQL, MongoDB, MSSQL  
 **Infra:** Docker, Kubernetes, ELK  
 **Version Control:** Git, GitHub  
-
-
-## 🔗 Socials
-[LinkedIn](https://linkedin.com/in/ayush-kumar-88b883239/)  
-[Behance](https://behance.net/ayuar312002)

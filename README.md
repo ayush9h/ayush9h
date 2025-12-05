@@ -1,21 +1,33 @@
-# 💫 About Me:
-4th-year B.Tech Undergraduate pursuing Computer Science and Engineering at BML Munjal University, Gurugram, India.
+# 👋 Hi, I'm Ayush
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ayuar312002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-88b883239/)  
+I build AI systems, agentic workflows, and full-stack applications. 
+I enjoy working hands-on with real code: scalable APIs, production-grade pipelines, enterprise AI assistants, and automation systems that solve meaningful problems.
 
-## 📊 Coding Profiles:
-![LeetCode Stats](https://leetcard.jacoblin.cool/ayukr_2002?theme=nord&font=Source%20Code%20Pro&ext=activity)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush9h&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayush9h&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9h&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🔧 What I Work On
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayush9h&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+ - **RAG Systems**: vector search, hybrid retrieval, multi-document pipelines  
+- **Backend Engineering**: FastAPI, Flask, PostgreSQL, MongoDB, MSSQL, Redis  
+- **Front-end & Full-stack**: React, Next.js, TailwindCSS  
+- **DevOps & Infra**: Docker, Kubernetes, Azure AKS, CI/CD  
+- **Search & Logging Infra**: ELK stack, Azure Search  
+- **ML/NLP**: Transformers, PyTorch, Scikit-Learn, NLP pipelines  
 
----
-[![](https://visitcount.itsvg.in/api?id=ayush9h&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏅 Achievements  
+- Winner in **MLH HackHound’23 (AI/ML Category)**  
+- Solved **500+** problems on [LeetCode](https://leetcode.com/u/ayukr_2002/) & [Codeforces](https://codeforces.com/profile/ayush2025)  
+
+## 🛠️ Skills
+
+**Languages:** Python, C++, JavaScript, TypeScript, Java  
+**Frameworks:** FastAPI, Flask, React, Next.js  
+**AI/NLP:** LangChain, LangGraph, NLTK, SpaCy, Transformers  
+**Databases:** PostgreSQL, MongoDB, MSSQL  
+**Infra:** Docker, Kubernetes, ELK  
+**Version Control:** Git, GitHub  
+
+
+## 🔗 Socials
+[LinkedIn](https://linkedin.com/in/ayush-kumar-88b883239/)  
+[Behance](https://behance.net/ayuar312002)
